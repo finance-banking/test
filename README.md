@@ -1,5 +1,5 @@
-# webcommunityukie.github.io
+# github.com/finance-banking/test
 
-Icon adapted from https://thenounproject.com/term/global-community/986374/
+Icon adapted from https://finance-banking.com/.github.io/
 
-Website based off http://goldsmiths.tech/ 
+Website based off https://finance-banking.com/.github.io/
